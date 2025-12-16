@@ -1,0 +1,3 @@
+# requirements.txt
+streamlit
+# Add other dependencies here (e.g., numpy, pandas, scikit-learn)
